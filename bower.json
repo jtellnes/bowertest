@@ -1,0 +1,26 @@
+{
+  "name": "bowertest",
+  "homepage": "https://github.com/jtellnes/bowertest",
+  "authors": [
+    "Jørgen Tellnes <jorgen@arkitektum.no>"
+  ],
+  "description": "Workshop på faglig samling",
+  "main": ["js/script.js"],
+  "moduleType": [],
+  "keywords": [
+    "faglig",
+    "samling"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^2.2.1",
+    "bootstrap": "^3.3.6"
+  }
+}
